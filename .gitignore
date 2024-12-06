@@ -1,7 +1,11 @@
-# SPDX-FileCopyrightText: 2022 - 2024 Orthanc Team SRL <info@orthanc.team>
-#
-# SPDX-License-Identifier: CC0-1.0
-
-.idea/
-.venv/
-*.py[cod]
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
